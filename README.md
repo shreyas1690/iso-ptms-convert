@@ -1,5 +1,5 @@
 # iso-ptms-convert
-SQL Server UDF to Convert ISO PTMS to Seconds
+SQL Server UDF - Convert YouTube API duration (ISO 8601 duration in the format PT#H#M#S) to seconds
 
 Examples :
 
